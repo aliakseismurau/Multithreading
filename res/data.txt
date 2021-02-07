@@ -1,0 +1,3 @@
+passenger_car; truck; truck; truck;
+passenger_car; passenger_car; passenger_car; passenger_car; passenger_car;
+truck; truck; passenger_car; passenger_car; truck;
